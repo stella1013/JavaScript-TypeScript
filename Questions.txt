@@ -1,0 +1,99 @@
+
+############# QUESTIONS AND ANSWERS #############
+OBJECTS
+    0. What is an Object?
+    1.What are the 4 ways you can create a JS Object.
+    2. What special characters can be used in Object property names.
+    3. Can Object property names be strings. T/F
+    4. What are the 4 ways Object properties can be accessed?
+    5. What are the functions called when added to Object property?
+    6. What are the advantages to using a constructor funtion to create an object.
+    7. What does the 'new' key word do in front of a function?
+    8. What is a constructor call?
+    9. What is a constructor?
+    10. What is instantiating?
+    11. What is the current execution context referenced by when a function is executing?
+    12. What can be two problems with the contructor function?
+    13. Explain how to solve the two problems with the constructor function?
+    14. What is Object.create()?
+    15. What are the benefits to using Object.create()?
+    16. What are the two arguments Object.create() accepts and what do they do?
+    17. What are the two types of descriptors?
+    18. List the data and access descriptors.
+    19. What is object.keys()? Explain order, loop type and what it returns.
+    20. What is object.values()? Explain order, loop type and what it returns.
+    21. What does this return? 
+        var arr = ['a', 'b', 'c'];
+        console.log(Object.keys(arr));
+    22. What does this return? 
+        var obj = { 0: 'a', 1: 'b', 2: 'c' };
+        console.log(Object.keys(obj));
+    23. What does this return? 
+        var anObj = { 100: 'a', 2: 'b', 7: 'c' };
+        console.log(Object.keys(anObj));
+    24. What does this return? 
+        var myObj = Object.create({}, {
+        getFoo: {
+            value: function () { return this.foo; }
+        } 
+        });
+        myObj.foo = 1;
+        console.log(Object.keys(myObj)); 
+    25. When using an array with Object.keys() what does it return?
+    26. What does Object.keys() return when using an array like object with random key ordering?
+    27. What does Object.keys() return when a property isn't enumerable?
+    28. What does this return? 
+        var obj = { foo: 'bar', baz: 42 };
+        console.log(Object.values(obj));
+    29. What does this return? 
+        var obj = { 0: 'a', 1: 'b', 2: 'c' };
+        console.log(Object.values(obj));
+    30. What does this return? 
+        var an_obj = { 100: 'a', 2: 'b', 7: 'c' };
+        console.log(Object.values(an_obj));
+    31. What does this return? 
+        var my_obj = Object.create({}, { getFoo: { value: function() { return this.foo; } } });
+        my_obj.foo = 'bar';
+        console.log(Object.values(my_obj));
+    32. When using an array with Object.keys() what does it return?
+    33. What does Object.keys() return when using an array like object with random key ordering?
+    34. What does Object.keys() return when a property isn't enumerable?
+    
+    Add Algorithmic complexity questions
+    Destructuring
+    Un-nesting
+    for in loop, forEach, map(), filter(), reduce()
+
+PROTOTYPES
+    1. What are prototypes?
+    2. What method do you use to access the prototype of an object in a production-safe way?
+    3. What method do you use to access the prototype of an object in a production-unsafe way?
+    4. What are two built in properties of prototypes?
+    5. What problems can occur when using reference objects in a prototype?
+
+ARRAYS
+    1. What is an array? //list-like objects
+    2. 
+
+############# EXERCISES #############
+
+
+OBJECTS
+    1. Create a JavaScript Object in 4 ways
+    2. Add properies to an already exisitng Object.
+    3. Use a dynamic key to access a property.
+    4. Solve the problem of using the constructor function where 
+        1. Problem with the constructor function: Every object has its own instance of the function
+        2. Problem with the prototype: Modifying a property using one object reflects the other object also.
+    5. Turn a function into a constructor call.
+    6. Instantiate an Object.
+    7. Create an Object with a prototype.
+    8. Create an Object without a prototype.
+    Destructuring
+    for in loop, forEach, map(), filter(), reduce()
+
+PROTOTYPES
+    1. Access a prototype in a production-safe way.
+    2. Access a prototype in a production-unsafe way.
+    3. Create an object with prototype.
+    4. Add, remove, edit a property on the prototype.

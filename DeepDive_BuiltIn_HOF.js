@@ -1,0 +1,1 @@
+//also struggling with scope of for loops, ifs and functions accessing arguments from inside for loop and/or if statement
