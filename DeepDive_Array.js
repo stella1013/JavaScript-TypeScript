@@ -52,3 +52,4 @@ Arrays are list-like objects whose prototype has methods to perform traversal an
 Arrays cannot use strings as element indexes (as in an associative array) but must use integers. Setting or accessing via non-integers using bracket notation (or dot notation) will not set or retrieve an element from the array list itself, but will set or access a variable associated with that array's object property collection. The array's object properties and list of array elements are separate, and the array's traversal and mutation operations cannot be applied to these named properties.*/
 
 //ASSOCIATIVE ARRAY
+//https://www.i-programmer.info/programming/javascript/1441-javascript-data-structures-the-associative-array.html
