@@ -73,7 +73,11 @@ PROTOTYPES
 
 ARRAYS
     1. What is an array? //list-like objects
-    2. 
+    2. What are the 3 ways to create an Array?
+    3. What is the difference between the index of an Array and Associative Array?
+    4. How do you specify the length of an Array?
+
+FUNCTIONS
 
 ############# EXERCISES #############
 
@@ -97,3 +101,14 @@ PROTOTYPES
     2. Access a prototype in a production-unsafe way.
     3. Create an object with prototype.
     4. Add, remove, edit a property on the prototype.
+
+ARRAYS
+    1. Add and Remove element to Array in front/back position.
+    2. Add element to specific index position.
+    3. Copy an Array.
+    4. Remove Elements without mutating the original Array.
+    5. Remove Elements while editing the original Array.
+    6. What happens after assigning a length to an array. And you try to add another element?
+    7. Loop over elements over array. Do not use .map().
+
+FUNCTIONS
