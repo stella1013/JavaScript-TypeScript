@@ -1,0 +1,819 @@
+{
+    "searchCriteria": {
+      "zip": "30318",
+      "radius": "50",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          "33.792303",
+          "-84.447862"
+        ]
+      },
+      "latitude": "33.792303",
+      "longitude": "-84.447862"
+    },
+    "url": "https://app.bioscapedigital.com/healthfinder/data/getSNF.php?zip=30318&radius=50",
+    "fieldsMap": {
+      "id": "ccn",
+      "name": "facility_name",
+      "address1": "address_line_1",
+      "address2": "address_line_2",
+      "city": "location_1_city",
+      "county": "county_name",
+      "state": "location_1_state",
+      "zip": "zip_code",
+      "phone": "phone_number",
+      "location": "location_1"
+    },
+    "additionalFields": [
+      {
+        "field": "distance",
+        "label": "Distance",
+        "type": "text"
+      },
+      {
+        "field": "overall_rating",
+        "label": "Overall Rating",
+        "max": 5,
+        "type": "stars"
+      },
+      {
+        "field": "score",
+        "label": "Patients Returned Home",
+        "type": "text"
+      }
+    ],
+    "data": [
+      {
+        "address_line_1": "2645 WHITING STREET N.W.",
+        "ccn": "115512",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "PRUITTHEALTH - WEST ATLANTA",
+        "footnote": "13",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.812013144928,
+            -84.441775043478
+          ]
+        },
+        "location_1_address": "2645 WHITING STREET N W",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30318",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)799-9267",
+        "score": "Not Available",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30318",
+        "distance": "0 miles",
+        "latitude": 33.812013144928,
+        "longitude": -84.441775043478,
+        "id": "115512",
+        "name": "PRUITTHEALTH - WEST ATLANTA",
+        "address1": "2645 WHITING STREET N.W.",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30318",
+        "phone": "(404)799-9267",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.812013144928,
+            -84.441775043478
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "1821 ANDERSON AVENUE NW",
+        "ccn": "115542",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "SADIE G. MAYS HEALTH & REHABILITATION CENTER",
+        "location_1_address": "1821 ANDERSON AVENUE NW",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30314",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)794-2477",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30314",
+        "distance": "2.6 miles",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.782503536232,
+            -84.416302971014
+          ]
+        },
+        "latitude": 33.782503536232,
+        "longitude": -84.416302971014,
+        "id": "115542",
+        "name": "SADIE G. MAYS HEALTH & REHABILITATION CENTER",
+        "address1": "1821 ANDERSON AVENUE NW",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30314",
+        "phone": "(404)794-2477",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.782503536232,
+            -84.416302971014
+          ]
+        },
+        "overall_rating": "2"
+      },
+      {
+        "address_line_1": "54 PEACHTREE PARK DRIVE N.E.",
+        "ccn": "115110",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "SIGNATURE HEALTHCARE OF BUCKHEAD",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.826840521739,
+            -84.400297753623
+          ]
+        },
+        "location_1_address": "54 PEACHTREE PARK DRIVE N E",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30309",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)351-6041",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30309",
+        "distance": "3.6 miles",
+        "latitude": 33.826840521739,
+        "longitude": -84.400297753623,
+        "id": "115110",
+        "name": "SIGNATURE HEALTHCARE OF BUCKHEAD",
+        "address1": "54 PEACHTREE PARK DRIVE N.E.",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30309",
+        "phone": "(404)351-6041",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.826840521739,
+            -84.400297753623
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "560 ST CHARLES AVE, NE",
+        "ccn": "115674",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "WESTMINSTER COMMONS",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.751415855072,
+            -84.389412347826
+          ]
+        },
+        "location_1_address": "560 ST CHARLES AVE",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30308",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)874-2233",
+        "score": "Better than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30308",
+        "distance": "4.3 miles",
+        "latitude": 33.751415855072,
+        "longitude": -84.389412347826,
+        "id": "115674",
+        "name": "WESTMINSTER COMMONS",
+        "address1": "560 ST CHARLES AVE, NE",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30308",
+        "phone": "(404)874-2233",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.751415855072,
+            -84.389412347826
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "2920 PHARR COURT SOUTH NW",
+        "ccn": "115129",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "NURSE CARE OF BUCKHEAD",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.831058318841,
+            -84.407376869565
+          ]
+        },
+        "location_1_address": "2920 PHARR COURT SOUTH",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30305",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)261-9043",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30305",
+        "distance": "4.5 miles",
+        "latitude": 33.831058318841,
+        "longitude": -84.407376869565,
+        "id": "115129",
+        "name": "NURSE CARE OF BUCKHEAD",
+        "address1": "2920 PHARR COURT SOUTH NW",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30305",
+        "phone": "(404)261-9043",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.831058318841,
+            -84.407376869565
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "1980 ARROW STREET, SW",
+        "ccn": "115717",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "RELIABLE HEALTH & REHAB AT LAKEWOOD",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.720499043478,
+            -84.422806594203
+          ]
+        },
+        "location_1_address": "1980 ARROW STREET",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30310",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)755-4080",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30310",
+        "distance": "4.7 miles",
+        "latitude": 33.720499043478,
+        "longitude": -84.422806594203,
+        "id": "115717",
+        "name": "RELIABLE HEALTH & REHAB AT LAKEWOOD",
+        "address1": "1980 ARROW STREET, SW",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30310",
+        "phone": "(404)755-4080",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.720499043478,
+            -84.422806594203
+          ]
+        },
+        "overall_rating": "3"
+      },
+      {
+        "address_line_1": "460 AUBURN AVENUE N.E.",
+        "ccn": "115585",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "LEGACY TRANSITIONAL CARE & REHABILITATION",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.74820326087,
+            -84.377259985507
+          ]
+        },
+        "location_1_address": "460 AUBURN AVENUE N E",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30312",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)523-1613",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30312",
+        "distance": "5.3 miles",
+        "latitude": 33.74820326087,
+        "longitude": -84.377259985507,
+        "id": "115585",
+        "name": "LEGACY TRANSITIONAL CARE & REHABILITATION",
+        "address1": "460 AUBURN AVENUE N.E.",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30312",
+        "phone": "(404)523-1613",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.74820326087,
+            -84.377259985507
+          ]
+        },
+        "overall_rating": "2"
+      },
+      {
+        "address_line_1": "350 BOULVARD, S.E.",
+        "ccn": "115275",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "A.G. RHODES HOME, INC, THE",
+        "location_1_address": "350 BOULVARD",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30312",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)688-6731",
+        "score": "Better than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30312",
+        "distance": "5.3 miles",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.765014855072,
+            -84.358999115942
+          ]
+        },
+        "latitude": 33.765014855072,
+        "longitude": -84.358999115942,
+        "id": "115275",
+        "name": "A.G. RHODES HOME, INC, THE",
+        "address1": "350 BOULVARD, S.E.",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30312",
+        "phone": "(404)688-6731",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.765014855072,
+            -84.358999115942
+          ]
+        },
+        "overall_rating": "5"
+      },
+      {
+        "address_line_1": "1000 BRIARCLIFF ROAD NE",
+        "ccn": "115531",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "De Kalb",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "PRUITTHEALTH - VIRGINIA PARK",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.794830246377,
+            -84.350048724638
+          ]
+        },
+        "location_1_address": "1000 BRIARCLIFF ROAD NE",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30306",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)875-6456",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30306",
+        "distance": "5.5 miles",
+        "latitude": 33.794830246377,
+        "longitude": -84.350048724638,
+        "id": "115531",
+        "name": "PRUITTHEALTH - VIRGINIA PARK",
+        "address1": "1000 BRIARCLIFF ROAD NE",
+        "address2": null,
+        "county": "De Kalb",
+        "zip": "30306",
+        "phone": "(404)875-6456",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.794830246377,
+            -84.350048724638
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "3150 HOWELL MILL ROAD N.W.",
+        "ccn": "115022",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "WILLIAM BREMAN JEWISH HOME, THE",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.888824434783,
+            -84.409473913043
+          ]
+        },
+        "location_1_address": "3150 HOWELL MILL ROAD N W",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30327",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)351-8410",
+        "score": "Better than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30327",
+        "distance": "5.6 miles",
+        "latitude": 33.888824434783,
+        "longitude": -84.409473913043,
+        "id": "115022",
+        "name": "WILLIAM BREMAN JEWISH HOME, THE",
+        "address1": "3150 HOWELL MILL ROAD N.W.",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30327",
+        "phone": "(404)351-8410",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.888824434783,
+            -84.409473913043
+          ]
+        },
+        "overall_rating": "2"
+      },
+      {
+        "address_line_1": "404 KING SPRINGS VILLAGE PKWY",
+        "ccn": "115330",
+        "city": "SMYRNA",
+        "cms_region": "4",
+        "county_name": "Cobb",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "DELMAR GARDENS OF SMYRNA",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.85117573913,
+            -84.514987724638
+          ]
+        },
+        "location_1_address": "404 KING SPRINGS VILLAGE PKWY",
+        "location_1_city": "SMYRNA",
+        "location_1_state": "GA",
+        "location_1_zip": "30082",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(770)432-4444",
+        "score": "Better than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30082",
+        "distance": "6.7 miles",
+        "latitude": 33.85117573913,
+        "longitude": -84.514987724638,
+        "id": "115330",
+        "name": "DELMAR GARDENS OF SMYRNA",
+        "address1": "404 KING SPRINGS VILLAGE PKWY",
+        "address2": null,
+        "county": "Cobb",
+        "zip": "30082",
+        "phone": "(770)432-4444",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.85117573913,
+            -84.514987724638
+          ]
+        },
+        "overall_rating": "2"
+      },
+      {
+        "address_line_1": "2800 SPRINGDALE ROAD",
+        "ccn": "115525",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "CRESTVIEW HEALTH & REHAB CTR",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.727756536232,
+            -84.368891811594
+          ]
+        },
+        "location_1_address": "2800 SPRINGDALE ROAD",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30315",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)616-8100",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30315",
+        "distance": "7.2 miles",
+        "latitude": 33.727756536232,
+        "longitude": -84.368891811594,
+        "id": "115525",
+        "name": "CRESTVIEW HEALTH & REHAB CTR",
+        "address1": "2800 SPRINGDALE ROAD",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30315",
+        "phone": "(404)616-8100",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.727756536232,
+            -84.368891811594
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "2850 SPRINGDALE ROAD SW",
+        "ccn": "115569",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "FULTON CENTER FOR REHABILITATION LLC",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.708915956522,
+            -84.40019615942
+          ]
+        },
+        "location_1_address": "2850 SPRINGDALE ROAD SW",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30315",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)762-8672",
+        "score": "Worse than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30315",
+        "distance": "7.2 miles",
+        "latitude": 33.708915956522,
+        "longitude": -84.40019615942,
+        "id": "115569",
+        "name": "FULTON CENTER FOR REHABILITATION LLC",
+        "address1": "2850 SPRINGDALE ROAD SW",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30315",
+        "phone": "(404)762-8672",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.708915956522,
+            -84.40019615942
+          ]
+        },
+        "overall_rating": "1"
+      },
+      {
+        "address_line_1": "5470 MERIDIAN MARK ROAD, BLDG E",
+        "ccn": "115270",
+        "city": "ATLANTA",
+        "cms_region": "4",
+        "county_name": "Fulton",
+        "end_date": "2017-09-30T00:00:00.000",
+        "facility_name": "DUNWOODY HEALTH AND REHABILITATION CENTER",
+        "location_1": {
+          "type": "Area",
+          "coordinates": [
+            33.898121028986,
+            -84.394419434783
+          ]
+        },
+        "location_1_address": "5470 MERIDIAN MARK ROAD",
+        "location_1_city": "ATLANTA",
+        "location_1_state": "GA",
+        "location_1_zip": "30342",
+        "measure_code": "S_005_01_DTC_COMP_PERF",
+        "no_qrp_flag": "0",
+        "phone_number": "(404)256-5131",
+        "score": "Better than the National Rate",
+        "start_date": "2016-10-01T00:00:00.000",
+        "state": "GA",
+        "zip_code": "30342",
+        "distance": "7.5 miles",
+        "latitude": 33.898121028986,
+        "longitude": -84.394419434783,
+        "id": "115270",
+        "name": "DUNWOODY HEALTH AND REHABILITATION CENTER",
+        "address1": "5470 MERIDIAN MARK ROAD, BLDG E",
+        "address2": null,
+        "county": "Fulton",
+        "zip": "30342",
+        "phone": "(404)256-5131",
+        "location": {
+          "type": "Area",
+          "coordinates": [
+            33.898121028986,
+            -84.394419434783
+          ]
+        },
+        "overall_rating": "2"
+      }
+    ],
+    "premiumContent": {
+      "105166": [
+        {
+          "label": "About Us",
+          "type": "text",
+          "value": "At Madison Pointe Care Center, we are dedicated to helping our residents maximize their potential and live their lives to the fullest. We offer a modern, comfortable and secure facility staffed by caring professionals where each individual receives the finest sub-acute medical care, rehabilitation services and 24 hour skilled nursing care."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "I recently had my father stay at Madison Pointe for about 3 weeks and I was thoroughly impressed with the care that he received. The CNA's and Nurses were thoughtful and attentive. The Rehab team was awesome and pushed him to work hard and regain his independence. So glad to have dad back home again."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "Such an amazing facility!  I've visited many of my friends in pretty much all of these places in this area and Madison Pointe is truly a diamond in the rough!  Clean and well maintained and such a friendly and helpful staff.  My friend LOVES it!"
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "My mom has been there for a month now and she loves it. She’s made a lot of friends and she is getting stronger every day. Love the nurses and activities ladies!"
+        },
+        {
+          "label": "Services Offered",
+          "type": "text",
+          "value": "Case Management\nPersonal counseling\nFamily and resident support groups\nSnacks\nAssistance with community healthcare resources\nDischarge planning and coordination of home care"
+        },
+        {
+          "label": "Other Highlights",
+          "type": "text",
+          "value": "We understand this may be a difficult time for all concerned and we are here to provide the support your loved one and your family needs during this period of transition. We are committed to maintaining a facility where compassionate health care, nursing, and rehabilitation services are provided in an environment of respect, dignity and personal attention to the needs of the individual."
+        }
+      ],
+      "105393": [
+        {
+          "label": "About Us",
+          "type": "text",
+          "value": "Bear Creek Nursing & Rehabilitation Center has devoted over 35 years to refining our resident-focused care and building skilled-nursing care teams who really get to know our residents. We know that the littlest things make the biggest differences in the lives of our residents."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "ear Creek Nursing & Rehabilitation Center has devoted over 35 years to refining our resident-focused care and building skilled-nursing care teams who really get to know our residents. We know that the littlest things make the biggest differences in the lives of our residents."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "My Mother is at Bear Creek for rehab after a massive stroke.  The speech therapist is fantastic and the nurses are pleasant and attentive."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "Hi My Name is Debbie. Not only am I a nurse but have been a patient 3 times here at Bear Creek. I had a total knee replacement and was told that the Physical Therapy Team at B.C. is known to be the BEST TEAM IN PASCO COUNTY"
+        },
+        {
+          "label": "Other Highlights",
+          "type": "text",
+          "value": "We know that a strong mental attitude creates more positivity than any medication can provide which is why Bear Creek Nursing Center makes available a wide variety of daily activities for our residents."
+        },
+        {
+          "label": "Videos",
+          "type": "video",
+          "value": "https://www.hudsonflnursinghome.com/"
+        }
+      ],
+      "105459": [
+        {
+          "label": "About Us",
+          "type": "text",
+          "value": "Consulate Health Care of Bayonet Point is a place to get better, a place for living. We are a 120-bed skilled nursing center, located near the Regional Medical Center of Bayonet Point, and a proud member of the Consulate Health Care family. Opened in 1993, we have 4 private rooms, 58 semi-private rooms, and can provide accommodations for couples that become residents of our care center."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "I am very happy at this facility. I am here for a short while to get my strength back so I can return home to my wife. I've been here for over four months and I have nothing bad to say. The staff are caring and compassionate. I am  a veteran of Khesahn in Vietnam. They have a veterans support group here where all the vets get together and reminisce, have socials, or go out to eat. I am very proud to say I served my country and this place has made me feel like a hero! I am grateful for the many friends I've  made here and would recommend this place to all my friends and family. If you want your loved one to feel part of a family while being apart from their family this is the place."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "My mom has been in several rehabs over the past 5 yrs this one was the best. My mom never waited long ifshr needed something  Food was very good they were always on time for her therapy. And we're very caring. I highly recommend this place."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "Excellent nurses and staff! Everyone is motivated to get you better and get you home"
+        },
+        {
+          "label": "Services Offered",
+          "type": "text",
+          "value": "\"Comprehensive rehabilitation services\nPhysical, Occupational and Speech therapies\n\"\"Your Journey Home\"\" rehabilitation program\nAlzheimer’s and dementia care\nCare for medically-complex patients\""
+        },
+        {
+          "label": "Other Highlights",
+          "type": "text",
+          "value": "HC of Bayonet Point also offers features such as an outdoor recreation area, garden and patio, a rehab gym, a beauty/barber shop, and pastoral support. Residents and often time's family too, can enjoy planned activities such as excursions, various arts and crafts, gardening, group movies, discussion groups, visiting performers, and intergenerational programs. We are Ambassadors of Care."
+        },
+        {
+          "label": "Videos",
+          "type": "video",
+          "value": "https://youtu.be/u1FQPc94GFo"
+        }
+      ],
+      "105544": [
+        {
+          "label": "About Us",
+          "type": "text",
+          "value": "Whether your need is for short-term rehab following a surgery, an acute illness, or long-term eldercare services, Solaris HealthCare Bayonet Point is the choice you can feel confident about making.  We deliver quality health care in a clean, friendly, home-like environment making us the premier choice for rehab in Pasco county.  Please stop by for a guided tour of our center."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "My father is in the rehab section of Solaris-the facility is clean and the staff is very good. They have staff everywhere, they are not short-handed; my father is getting excellent care and attention. The therapy department is very well qualified, too. They do not allow him to stay in his room, they keep him active, as well as the other patients."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "I just want to thank all of the staff for taking amazing care of our mother while she was in your care. You helped our family so much in the process of our mother passing and made sure she was always peaceful. Thank you so much."
+        },
+        {
+          "label": "Patient Testimonial",
+          "type": "review",
+          "value": "The care staff took great care of my mother. The activities director is always engaging the residents, kind, and caring. I would recommend this place for long term or rehab."
+        },
+        {
+          "label": "Services Offered",
+          "type": "text",
+          "value": "Physical Therapy, Occupational Therapy, Speech Therapy, Respiratory Therapy, Medical Nutritional Therapy"
+        },
+        {
+          "label": "Other Highlights",
+          "type": "text",
+          "value": "We Believe…\nWe Believe in quality first.\nWe Believe anything is possible.\nWe Believe in positive attitudes.\nWe Believe that everyone can make a difference.\nWe Believe in Integrity, Compassion & Honesty.\nWe Believe in exceptional customer service.\nWe Believe that work should be fun\n\nAt Solaris, We Believe in Doing What’s Right!"
+        },
+        {
+          "label": "Videos",
+          "type": "video",
+          "value": "https://youtu.be/xpKCOiRAhPc"
+        }
+      ]
+    }
+  }

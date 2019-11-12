@@ -63,6 +63,7 @@ OBJECTS
     Destructuring
     Un-nesting
     for in loop, forEach, map(), filter(), reduce()
+    spread operator
 
 PROTOTYPES
     1. What are prototypes?
@@ -76,8 +77,14 @@ ARRAYS
     2. What are the 3 ways to create an Array?
     3. What is the difference between the index of an Array and Associative Array?
     4. How do you specify the length of an Array?
+    Add Algorithmic complexity questions
+    Destructuring
+    Un-nesting
+    for in loop, forEach, map(), filter(), reduce()
+    spread operator
 
 FUNCTIONS
+    1. Why are functions considered first class?
 
 ############# EXERCISES #############
 
