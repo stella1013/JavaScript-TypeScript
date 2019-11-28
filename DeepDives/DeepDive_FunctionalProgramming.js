@@ -170,7 +170,7 @@ Pay close attention to the syntax! When the user clicks on the button, the funct
 
 <button
     id="billButton"
-    onclick="once(billTheUser8)(some, sales, data)">Bill me</button>;
+    onclick="once(billTheUser8)(some, sales, data)">Bill me</button>
 
     function billTheUser8(some, sales, data) {
         window.alert("Billing the user...");
@@ -187,3 +187,17 @@ const once = fn => {
         }
     }
 }
+//Even Better Solution: Functional Solution
+//not to ignore user's clicks after the first. So it takes another parameter
+
+const onceAndAfter = (f, g) => {
+    let done = false;
+    return (...args) => {
+        if (!done) {
+            done = true;
+            f(...args);
+        } else {
+            g(...args);
+        }
+    };
+};

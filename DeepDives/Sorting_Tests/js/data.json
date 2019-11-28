@@ -1,0 +1,583 @@
+{
+	"status": "success",
+	"message": {
+		"drugInfo": [
+			{
+				"brandName": "Lipitor",
+				"genericName": "ATORVASTATIN CALCIUM",
+				"description": "What is this medicine?\r\nATORVASTATIN (a TORE va sta tin) is known as a HMG-CoA reductase inhibitor or 'statin'. It lowers the level of cholesterol and triglycerides in the blood. This drug may also reduce the risk of heart attack, stroke, or other health problems in patients with risk factors for heart disease. Diet and lifestyle changes are often used with this drug.\r\nThis medicine may be used for other purposes; ask your health care provider or pharmacist if you have questions."
+			}
+		],
+		"drugs": [
+			{
+				"pharmacy": {
+					"name": "WALMART",
+					"streetAddress": "835 MARTIN LUTHER KING JR DR NW",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30314",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "11018208213082140821508216082170919",
+					"phone": "4044602706",
+					"npi": "1689918468",
+					"distance": 1.5,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": "/images/logos//walmart.png",
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "Walmart",
+						"url": "/pharmacy/walmart"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 9,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxNjg5OTE4NDY4IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7aTo5O30%3D"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "MERCY CARE PHARMACY",
+					"streetAddress": "424 DECATUR STREET NE",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30303",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "1 23342333424334253342633427",
+					"phone": "4044390949",
+					"npi": "1487199972",
+					"distance": 0.39,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "MERCY CARE PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxNDg3MTk5OTcyIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxMy42OTt9"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 13.69,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxNDg3MTk5OTcyIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxMy42OTt9"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "SHEPHERD APOTHECARY",
+					"streetAddress": "2020 PEACHTREE RD NW",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30309",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "1 20818308184081850818608187",
+					"phone": "4043507743",
+					"npi": "1588774392",
+					"distance": 3.95,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "SHEPHERD APOTHECARY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxNTg4Nzc0MzkyIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxMy42OTt9"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 13.69,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxNTg4Nzc0MzkyIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxMy42OTt9"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "PHARMACY OF ASCHC INC",
+					"streetAddress": null,
+					"city": null,
+					"state": "GA",
+					"zipCode": null,
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": null,
+					"phone": null,
+					"npi": "1063627610",
+					"distance": 1.83,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "PHARMACY OF ASCHC INC",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMDYzNjI3NjEwIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC40NDt9"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.44,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMDYzNjI3NjEwIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC40NDt9"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "THE FAMILY HEALTH CENTER AT WEST END PHARMACY",
+					"streetAddress": "868 YORK AVE SW",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30310",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "1 20917309174091750917609177",
+					"phone": "4047588988",
+					"npi": "1902922669",
+					"distance": 1.9,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "THE FAMILY HEALTH CENTER AT WEST END PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxOTAyOTIyNjY5IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC40NDt9"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.44,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxOTAyOTIyNjY5IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC40NDt9"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "GRADY BEHAVIORAL HEALTH CENTER PHARMACY",
+					"streetAddress": "10 PARK PLACE",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30303",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "1 23317333174081753317633177",
+					"phone": "4046160888",
+					"npi": "1316294713",
+					"distance": 0.17,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "GRADY BEHAVIORAL HEALTH CENTER PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMzE2Mjk0NzEzIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.61,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMzE2Mjk0NzEzIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "GRADY HEALTH SYSTEM - SENIOR CARE PHARMACY",
+					"streetAddress": "80 JESSE HILL JR DR SE",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30303",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "1 23317333174331753317633177",
+					"phone": "4046165079",
+					"npi": "1972826766",
+					"distance": 0.34,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "GRADY HEALTH SYSTEM - SENIOR CARE PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxOTcyODI2NzY2IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.61,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxOTcyODI2NzY2IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "GRADY HEALTH SYSTEM CANCER CENTER PHARMACY",
+					"streetAddress": null,
+					"city": null,
+					"state": "GA",
+					"zipCode": null,
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": null,
+					"phone": null,
+					"npi": "1124598362",
+					"distance": 0.36,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "GRADY HEALTH SYSTEM CANCER CENTER PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMTI0NTk4MzYyIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.61,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMTI0NTk4MzYyIjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "PRATT STREET PHARMACY",
+					"streetAddress": "80 JESSE HILL JR DR SE RM GF024",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30303",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": "1 23216332164321653216632167",
+					"phone": "4046167384",
+					"npi": "1396025367",
+					"distance": 0.37,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "PRATT STREET PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMzk2MDI1MzY3IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.61,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxMzk2MDI1MzY3IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+				}
+			},
+			{
+				"pharmacy": {
+					"name": "HUGHES SPALDING CHILDREN'S HOSPITAL PHARMACY",
+					"streetAddress": "35 JESSE HILL JR DR",
+					"city": "ATLANTA",
+					"state": "GA",
+					"zipCode": "30303",
+					"latitude": 33.752504,
+					"longitude": -84.388846,
+					"hoursOfOperation": null,
+					"phone": "4047859634",
+					"npi": "1811018369",
+					"distance": 0.45,
+					"nabp": null,
+					"listingSlug": null,
+					"pharmacyLogo": {
+						"imgUrl": null,
+						"imgStyle": "style=\"max-height:50px;max-width: 160px;\"",
+						"brand": "HUGHES SPALDING CHILDREN'S HOSPITAL PHARMACY",
+						"url": "/coupon/dispatch/YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxODExMDE4MzY5IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+					}
+				},
+				"drug": {
+					"ndcCode": "00093505698",
+					"brandGenericIndicator": "G",
+					"gsn": null,
+					"drugRanking": null,
+					"quantity": 30,
+					"quantityRanking": null,
+					"labelName": "ATORVASTATIN TAB 10MG",
+					"endUserQuantity": null,
+					"form": "Tablet",
+					"strength": "10MG",
+					"pda": "ATORVASTATIN TAB 10MG",
+					"ps": 0,
+					"ds": 30
+				},
+				"pricing": {
+					"price": 14.61,
+					"discount": null,
+					"group": "SPKRX",
+					"bin": "610602",
+					"pcn": "NVT",
+					"couponCode": "YToxNjp7czozOiJnc24iO047czozOiJuZGMiO3M6MTE6IjAwMDkzNTA1Njk4IjtzOjg6InF1YW50aXR5IjtpOjMwO3M6MzoibnBpIjtzOjEwOiIxODExMDE4MzY5IjtzOjQ6Im5hYnAiO047czo4OiJsYXRpdHVkZSI7ZDozMy43NTI1MDQwMDAwMDAwMDI7czo5OiJsb25naXR1ZGUiO2Q6LTg0LjM4ODg0NjAwMDAwMDAwMTtzOjU6ImdwaTEwIjtOO3M6NDoiZm9ybSI7czo2OiJUYWJsZXQiO3M6ODoic3RyZW5ndGgiO3M6NDoiMTBNRyI7czoxNjoiYnJhbmRHZW5lcmljRmxhZyI7czoxOiJHIjtzOjM6InBkYSI7czoyMToiQVRPUlZBU1RBVElOIFRBQiAxME1HIjtzOjI6InBzIjtpOjA7czoyOiJkcyI7ZDozMDtzOjEyOiJpbnN1cmVkUHJpY2UiO047czoxMzoiZHJ1Z1BhZ2VQcmljZSI7ZDoxNC42MDk5OTk5OTk5OTk5OTk7fQ%3D%3D"
+				}
+			}
+		],
+		"forms": [
+			{
+				"form": "Powder",
+				"gsn": null,
+				"isSelected": false,
+				"ranking": null,
+				"pda": "ATORVASTATIN POW",
+				"ps": 500
+			},
+			{
+				"form": "Tablet",
+				"gsn": null,
+				"isSelected": true,
+				"ranking": null,
+				"pda": "ATORVASTATIN TAB 80MG",
+				"ps": 0
+			}
+		],
+		"names": [
+			{
+				"drugName": "ATORVASTATIN CALCIUM",
+				"brandGenericIndicator": "G",
+				"isSelected": true,
+				"ndcCode": null,
+				"ps": 0,
+				"pda": "ATORVASTATIN TAB 10MG"
+			},
+			{
+				"drugName": "LIPITOR",
+				"brandGenericIndicator": "B",
+				"isSelected": false,
+				"ndcCode": null,
+				"ps": 0,
+				"pda": "LIPITOR TAB 10MG"
+			}
+		],
+		"quantities": [
+			{
+				"quantity": 30,
+				"quantityUom": null,
+				"gsn": null,
+				"isSelected": true,
+				"ranking": null,
+				"label": "30 tablets"
+			}
+		],
+		"strengths": [
+			{
+				"strength": "10MG",
+				"gsn": null,
+				"isSelected": true,
+				"ranking": null,
+				"pda": "ATORVASTATIN TAB 10MG",
+				"ps": 0
+			},
+			{
+				"strength": "20MG",
+				"gsn": null,
+				"isSelected": false,
+				"ranking": null,
+				"pda": "ATORVASTATIN TAB 20MG",
+				"ps": 0
+			},
+			{
+				"strength": "40MG",
+				"gsn": null,
+				"isSelected": false,
+				"ranking": null,
+				"pda": "ATORVASTATIN TAB 40MG",
+				"ps": 0
+			},
+			{
+				"strength": "80MG",
+				"gsn": null,
+				"isSelected": false,
+				"ranking": null,
+				"pda": "ATORVASTATIN TAB 80MG",
+				"ps": 0
+			}
+		],
+		"meta": {
+			"quantity": 30,
+			"endUserQuantity": 30,
+			"isGeneric": true,
+			"insured": false,
+			"brandName": "Lipitor",
+			"genericName": "ATORVASTATIN CALCIUM",
+			"selectedName": "ATORVASTATIN CALCIUM",
+			"gsn": false,
+			"ndc": "00093505698",
+			"NDC11": "00093505698",
+			"pharmacyNdcs": ["00093505698"],
+			"drugDescription": "What is this medicine?\r\nATORVASTATIN (a TORE va sta tin) is known as a HMG-CoA reductase inhibitor or 'statin'. It lowers the level of cholesterol and triglycerides in the blood. This drug may also reduce the risk of heart attack, stroke, or other health problems in patients with risk factors for heart disease. Diet and lifestyle changes are often used with this drug.\r\nThis medicine may be used for other purposes; ask your health care provider or pharmacist if you have questions.",
+			"image": ["https://demo.rxspark.com/drug-image/19184/DrugItem/full"],
+			"lowPrice": "$9.00",
+			"highPrice": "$14.61"
+		},
+		"drugInfoDetails": {
+			"brandName": "Atorvastatin Calcium",
+			"genericName": "ATORVASTATIN CALCIUM",
+			"drugDescription": "What is this medicine?\r\nATORVASTATIN (a TORE va sta tin) is known as a HMG-CoA reductase inhibitor or 'statin'. It lowers the level of cholesterol and triglycerides in the blood. This drug may also reduce the risk of heart attack, stroke, or other health problems in patients with risk factors for heart disease. Diet and lifestyle changes are often used with this drug.\r\nThis medicine may be used for other purposes; ask your health care provider or pharmacist if you have questions.",
+			"administerInstructions": "How should I use this medicine?\r\nTake this medicine by mouth with a glass of water. Follow the directions on the prescription label. You can take this medicine with or without food. Take your doses at regular intervals. Do not take your medicine more often than directed.<br />\r\n<br />\r\nTalk to your pediatrician regarding the use of this medicine in children. While this drug may be prescribed for children as young as 10 years old for selected conditions, precautions do apply.\r\nOverdosage: If you think you have taken too much of this medicine contact a poison control center or emergency room at once.<br />\r\nNOTE: This medicine is only for you. Do not share this medicine with others.",
+			"contraindications": "What should I tell my health care provider before I take this medicine?\r\nThey need to know if you have any of these conditions:<br />\r\n-frequently drink alcoholic beverages<br />\r\n-history of stroke, TIA<br />\r\n-kidney disease<br />\r\n-liver disease<br />\r\n-muscle aches or weakness<br />\r\n-other medical condition<br />\r\n-an unusual or allergic reaction to atorvastatin, other medicines, foods, dyes, or preservatives<br />\r\n-pregnant or trying to get pregnant<br />\r\n-breast-feeding\r\n",
+			"disclaimer": "Keep out of the reach of children.<br />\r\n<br />\r\nStore at room temperature between 20 to 25 degrees C (68 to 77 degrees F). Throw away any unused medicine after the expiration date.\r\nNOTE: This sheet is a summary. It may not cover all possible information. If you have questions about this medicine, talk to your doctor, pharmacist, or health care provider.",
+			"interactions": "What may interact with this medicine?\r\nDo not take this medicine with any of the following medications:<br />\r\n-red yeast rice<br />\r\n-telaprevir<br />\r\n-telithromycin<br />\r\n-voriconazole<br />\r\n <br />\r\nThis medicine may also interact with the following medications:<br />\r\n-alcohol<br />\r\n-antiviral medicines for HIV or AIDS<br />\r\n-boceprevir<br />\r\n-certain antibiotics like clarithromycin, erythromycin, troleandomycin<br />\r\n-certain medicines for cholesterol like fenofibrate or gemfibrozil<br />\r\n-cimetidine<br />\r\n-clarithromycin<br />\r\n-colchicine<br />\r\n-cyclosporine<br />\r\n-digoxin<br />\r\n-female hormones, like estrogens or progestins and birth control pills<br />\r\n-grapefruit juice<br />\r\n-medicines for fungal infections like fluconazole, itraconazole, ketoconazole<br />\r\n-niacin<br />\r\n-rifampin<br />\r\n-spironolactone\r\nThis list may not describe all possible interactions. Give your health care provider a list of all the medicines, herbs, non-prescription drugs, or dietary supplements you use. Also tell them if you smoke, drink alcohol, or use illegal drugs. Some items may interact with your medicine.",
+			"missedDoseInfo": "What if I miss a dose?\r\nIf you miss a dose, take it as soon as you can. If it is almost time for your next dose, take only that dose. Do not take double or extra doses.\r\n",
+			"monitorReactions": "What should I watch for while using this medicine?\r\nVisit your doctor or health care professional for regular check-ups. You may need regular tests to make sure your liver is working properly.<br />\r\n <br />\r\nTell your doctor or health care professional right away if you get any unexplained muscle pain, tenderness, or weakness, especially if you also have a fever and tiredness. Your doctor or health care professional may tell you to stop taking this medicine if you develop muscle problems. If your muscle problems do not go away after stopping this medicine, contact your health care professional.<br />\r\n <br />\r\nThis drug is only part of a total heart-health program. Your doctor or a dietician can suggest a low-cholesterol and low-fat diet to help. Avoid alcohol and smoking, and keep a proper exercise schedule.<br />\r\n <br />\r\nDo not use this drug if you are pregnant or breast-feeding. Serious side effects to an unborn child or to an infant are possible. Talk to your doctor or pharmacist for more information.<br />\r\n <br />\r\nThis medicine may affect blood sugar levels. If you have diabetes, check with your doctor or health care professional before you change your diet or the dose of your diabetic medicine.<br />\r\n <br />\r\nIf you are going to have surgery tell your health care professional that you are taking this drug.\r\n",
+			"sideEffects": "What side effects may I notice from receiving this medicine?\r\nSide effects that you should report to your doctor or health care professional as soon as possible:<br />\r\n-allergic reactions like skin rash, itching or hives, swelling of the face, lips, or tongue<br />\r\n-dark urine<br />\r\n-fever<br />\r\n-joint pain<br />\r\n-muscle cramps, pain<br />\r\n-redness, blistering, peeling or loosening of the skin, including inside the mouth<br />\r\n-trouble passing urine or change in the amount of urine<br />\r\n-unusually weak or tired<br />\r\n-yellowing of eyes or skin<br />\r\n<br />\r\nSide effects that usually do not require medical attention (report to your doctor or health care professional if they continue or are bothersome):<br />\r\n-constipation<br />\r\n-heartburn<br />\r\n-stomach gas, pain, upset\r\nThis list may not describe all possible side effects. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+		}
+	}
+}
