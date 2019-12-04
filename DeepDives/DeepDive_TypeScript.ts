@@ -2,3 +2,7 @@
 
 You can also get type checks, without using TypeScript, by using Facebook's Flow (see https://flow.org/).
 */
+/**
+ * GENERICS
+ * 
+ */
