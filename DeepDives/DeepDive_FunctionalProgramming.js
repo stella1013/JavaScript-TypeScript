@@ -201,3 +201,33 @@ const onceAndAfter = (f, g) => {
         }
     };
 };
+
+/**Using Functions in FP ways
+     * Injections
+     * Callbacks, promises and continuations
+     * Continuation Passing Style
+     * Polyfills
+     * Adding Missing Functions
+     * Stubbing
+     * Immediate Invocation
+ * 
+ */
+
+ /**
+  * Pure Functions
+  * Don't depend on and modify anything outside it's scope - always return the same result for the same input of arguments
+  * when calculating it's result doesn't cause any observable side effects.
+  * 
+  * USUAL SIDE EFFECTS
+  *     Changing global variables.
+        Mutating objects received as arguments.
+        Doing any kind of I/O, such as showing an alert message or logging some text.
+        Working with, and changing, the filesystem.
+        Updating a database.
+        Calling a web service.
+        Querying or modifying the DOM.
+        Triggering any external process.
+        And, finally, just calling some other function that happens to produce a side effect of its own. You could say that impurity is contagious: a function that calls an impure function automatically becomes impure on its own!
+
+    
+        */
