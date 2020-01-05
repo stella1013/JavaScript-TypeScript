@@ -5,11 +5,23 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "live-server"
+    "start": "webpack-dev-server",
+    "build": "webpack --config webpack.config.prod.js"
   },
-  "author": "Veronica Preston <relativelydarling@gmail.com> (http://www.veronicapreston@gmail.com)",
+  "author": "Veronica Preston <relativelydarling@gmail.com> (http://www.veronicapreston.com)",
   "license": "ISC",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "@types/lodash": "^4.14.149",
+    "clean-webpack-plugin": "^3.0.0",
+    "live-server": "^1.2.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "dependencies": {
+    "class-transformer": "^0.2.3",
+    "lodash": "^4.17.15"
   }
 }
