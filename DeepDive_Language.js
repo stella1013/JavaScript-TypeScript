@@ -1,1 +1,0 @@
-//https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
