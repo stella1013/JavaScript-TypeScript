@@ -1,66 +1,14 @@
-//create 2 project lists
-///when a project is instantiated project list should set active or finished
-//parse all related projects
-class DOMHelper {
-	static clearEventListeners(element) {
-		const clonedElement = element.cloneNode(true);
-		element.replaceWith(clonedElement);
-		///replace element with it'self to be garbage collected
-		return clonedElement;
-	}
-	static moveElement(elementId, newDestinationSelector) {
-		const element = document.getElementById(elementId);
-		const destinationElement = document.querySelector(newDestinationSelector);
-		destinationElement.append(element);
-	}
-}
-class Component {
-	constructor(hostElementId, insertBefor = false) {
-		if (hostElementId) {
-			this.hostElement = document.getElementById(hostElementId);
-		} else {
-			this.hostElement = document.body;
-		}
-		this.insertBefore = insertBefor;
-	}
-	detach() {
-		if (this.element) {
-			this.element.remove();
-			//remove() for older browsers
-			// this.element.parentElement.removeChild(this.element);
-		}
-	}
-
-	attach() {
-		this.hostElement.insertAdjacentElement(
-			this.insertBefore ? 'afterbegin' : 'beforeend',
-			this.element
-		);
-		this.hostElement.append(this.element);
-	}
-}
-class Tooltip extends Component {
-	constructor(closeNotifierFunction) {
-		super();
-		this.closeNotifier = closeNotifierFunction;
-		this.create();
-	}
-
-	closeTooltip = () => {
-		this.detach();
-		this.closeNotifier();
-	};
-
-	create() {
-		console.log('tooltip');
-		const tooltipElement = document.createElement('div');
-		tooltipElement.className = 'card';
-		tooltipElement.textContent = 'Hello';
-		tooltipElement.addEventListener('click', this.closeTooltip);
-		this.element = tooltipElement;
-	}
-}
-
+/**
+ * ###### DRAG & DROP THEORY #####
+ * 
+ * 1. Mark Elements as "draggable" - add draggable attribute or set property to 'true'
+ * 2. Listen to "dragstart" Event on element that is 'draggable' - describe operation & append data
+ * 3. Accept Drop via 'dragenter' and 'dragover' Events => preventDefault(). - add listeners on elements that are drop areas.
+ * default.. a drop event is always cancelled so preventDefault() to allow a drop.
+ * 4. Optional - Listen to 'dragleave' Event - update ui styles when object leaves drop zone.
+ * 5. Listen to 'drop' event & update data/ui. - DOM needs updating.
+ * 6. Optional - Listen to 'dragend' Event - update data/ui. 'dragend' is always called even when drop is cancelled.
+ * */
 class ProjectItem {
 	hasActiveTooltip = false;
 	constructor(id, updateProjectListsFunction, type) {
@@ -112,7 +60,6 @@ class ProjectItem {
 		);
 	}
 }
-
 class ProjectList {
 	projects = []; //projects field
 	//fields are translated to properties just as if in constructor. translated/converted  to properties before constructor logic or super constructor
@@ -180,18 +127,3 @@ class ProjectList {
 		this.projects.filter(p => p.id !== projectId);
 	}
 }
-
-class App {
-	static init() {
-		const activeProjectsList = new ProjectList('active');
-		const finishedProjectsList = new ProjectList('finished');
-		activeProjectsList.setSwitchHandlerFunction(
-			finishedProjectsList.addProject.bind(finishedProjectsList)
-		);
-		finishedProjectsList.setSwitchHandlerFunction(
-			activeProjectsList.addProject.bind(activeProjectsList)
-		);
-	}
-}
-
-App.init();
