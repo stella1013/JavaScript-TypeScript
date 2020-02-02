@@ -39,17 +39,34 @@ console.log(/[0-9]/.test("in 1992")); // true
 //SHORTCUTS
 /*
 A number of common character groups have their own built in shortcuts. Digits are one of them so \d means the same as [0-9]
+Multiple character ranges can also be used in the same set of brackets, along with individual characters. An example of this is the alphanumeric \w metacharacter which is equivalent to the character range [A-Za-z0-9_] and often used to match characters in English text.
 
 
-\d - Any digit character
-\w - An alphanumeric character ("word character")
-\s - Any whitespace character (space, tab, newline, and similar)
-\D - A character that is not a digit.
-\W - A nonalphanumeric character
-\S - A nonwhitespace character
-. - Any Character except for a newline
-[\d.] - any digit or a period character
-^ - inverts a set of characters or match any EXCEPT the ones in the set.
+abc…	Letters
+123…	Digits
+\d	Any Digit
+\D	Any Non-digit character
+.	Any Character
+\.	Period
+[abc]	Only a, b, or c
+[^abc]	Not a, b, nor c
+[a-z]	Characters a to z
+[0-9]	Numbers 0 to 9
+\w	Any Alphanumeric character
+\W	Any Non-alphanumeric character
+{m}	m Repetitions
+{m,n}	m to n Repetitions
+*	Zero or more repetitions
++	One or more repetitions
+?	Optional character
+\s	Any Whitespace
+\S	Any Non-whitespace character
+^…$	Starts and ends
+(…)	Capture Group
+(a(bc))	Capture Sub-group
+(.*)	Capture all
+(abc|def)	Matches abc or def
+
 */
 
 
