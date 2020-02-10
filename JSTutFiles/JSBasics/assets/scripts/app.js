@@ -149,7 +149,22 @@ class App {
     finishedProjectsList.setSwitchHandlerFunction(
       activeProjectsList.addProject.bind(activeProjectsList)
     );
+    /*
+    const someScript = document.createElement('script');
+    someScript.textContent = 'alert("Hi there")';
+    document.head.append(someScript);
+*/
+    this.startAnalytics();
   }
+
+  static startAnalytics(){
+    //make sure dynamically loaded scripts arent based on user generated content and is sanitized
+    const analyticsScripts = document.createElement('script');
+    analyticsScripts.src = 'assets/scripts/analytics.js'; //downloaded only when function called
+    analyticsScripts.defer = true;
+    document.head.append(analyticsScripts);
+  }
+ 
 }
 
 App.init();

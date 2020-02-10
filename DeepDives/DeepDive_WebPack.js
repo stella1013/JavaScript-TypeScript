@@ -2,6 +2,7 @@
  * Reasons bundling with webpack is preferable
  * -older browsers can't import individual files.
  * -Individual files makes a separate http requests
+ * Loading faster due to optimized code.
  * 
  * What is Web Pack?
  * Tool to help bundle files together
